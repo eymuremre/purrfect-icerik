@@ -1,0 +1,47 @@
+{
+ "bicim": 1,
+ "icerik_surumu": 1,
+ "min_uygulama_build": 0,
+ "kanal": "test",
+ "paketler": [
+  {
+   "ad": "bolumler_0001_0100",
+   "dosya": "bolumler_0001_0100_55b2c0a640.json",
+   "sha256": "55b2c0a640c4f44810de25f883284470ca41da317eaab14cba813a776ad77133",
+   "boyut": 214694,
+   "tur": "bolumler",
+   "ilk": 1,
+   "son": 100
+  },
+  {
+   "ad": "kolaylastirma",
+   "dosya": "kolaylastirma_a32f37bc5d.json",
+   "sha256": "a32f37bc5dec176bddce131587e0f07d78be7e64edf7fbea563c1f6bfe4d10e9",
+   "boyut": 11658,
+   "tur": "kolaylastirma"
+  }
+ ],
+ "ayarlar": {
+  "kolay_esikler": [
+   4,
+   6,
+   8,
+   10
+  ],
+  "kolay_puan_zor": 10,
+  "kolay_puan_ozel": 10,
+  "kolay_puan_normal": 5,
+  "kolay_tavan": 75,
+  "kolay_normal_en_cok": 2,
+  "gecis_ilk_bolum": 15,
+  "gecis_aralik": 3,
+  "gecis_en_az_sn": 90,
+  "etkinlik_acik": false
+ },
+ "test_kimlikleri": [
+  "S4czMuR1I3Tr3C13bOzffRIHN3z1",
+  "ZUsPOqfXEtX3bEifKIhPKLNtS443",
+  "cU4IO6RLzbYL4tvLmXX8zHLkoYG3",
+  "lkxzHpvtW4axU1lYuNa1yIJAvqS2"
+ ]
+}
