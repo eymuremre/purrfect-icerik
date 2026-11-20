@@ -1,35 +1,9 @@
 {
  "bicim": 1,
- "icerik_surumu": 2,
+ "icerik_surumu": 3,
  "min_uygulama_build": 0,
  "kanal": "test",
- "paketler": [
-  {
-   "ad": "bolumler_0001_0100",
-   "dosya": "bolumler_0001_0100_94892b4f41.json",
-   "sha256": "94892b4f4174df6c092ffeb02099fcc1b14d77115bf1064f6a26f93248fd74a4",
-   "boyut": 214739,
-   "tur": "bolumler",
-   "ilk": 1,
-   "son": 100
-  },
-  {
-   "ad": "bolumler_0101_0200",
-   "dosya": "bolumler_0101_0200_8170ba7521.json",
-   "sha256": "8170ba7521e36cb83e18fe821f2d8dfb28aa4e6740d227821cc94a245353d057",
-   "boyut": 236693,
-   "tur": "bolumler",
-   "ilk": 101,
-   "son": 200
-  },
-  {
-   "ad": "kolaylastirma",
-   "dosya": "kolaylastirma_3c86d0a3ba.json",
-   "sha256": "3c86d0a3ba4d0c32b062241fea18a04b6d03ab447c54359afbf54d4d87c39647",
-   "boyut": 11971,
-   "tur": "kolaylastirma"
-  }
- ],
+ "paketler": [],
  "ayarlar": {
   "kolay_esikler": [
    4,
