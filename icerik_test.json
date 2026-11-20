@@ -1,6 +1,6 @@
 {
  "bicim": 1,
- "icerik_surumu": 3,
+ "icerik_surumu": 4,
  "min_uygulama_build": 0,
  "kanal": "test",
  "paketler": [],
@@ -16,10 +16,13 @@
   "kolay_puan_normal": 5,
   "kolay_tavan": 75,
   "kolay_normal_en_cok": 2,
-  "gecis_ilk_bolum": 15,
-  "gecis_aralik": 3,
-  "gecis_en_az_sn": 90,
-  "reklam_guc_gunluk": 3,
+  "gecis_ilk_bolum": 20,
+  "gecis_aralik": 5,
+  "gecis_en_az_sn": 180,
+  "reklam_guc_gunluk": 1,
+  "reklam_guc_reklam_sayisi": 2,
+  "reklam_devam_sn": 15,
+  "reklam_devam_kayip": 2,
   "etkinlik_acik": false
  },
  "test_kimlikleri": [
